@@ -42,7 +42,10 @@
     * git stash  ( to undo the changes )
     * git rm filename (untracking file . diff from rm in linux )
     * git mv originalFilename newFilename  ( renaming file )
-    * 
+    
+    
+# source - [Refer github documentation ](http://git-scm.com/doc) 
+
     
     
     
